@@ -6,8 +6,8 @@ Proyecto terrarium para Programación Web TecNM/ITGAM
 Proyecto de la clase de Programación
 
 ## Autor
-<img
-scr="https://avatars.githubusercontent.com/u/130027092?v=4"
+<img 
+src="https://avatars.githubusercontent.com/u/130027092?v=4"
 alt="kevin israel"
 width="200px">
 
